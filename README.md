@@ -16,3 +16,12 @@ cd asciiquarium_1.1/
 sudo chmod 0755 asciiquarium
 perl asciiquarium
 ```
+
+## tmux screen saver settings
+
+_.tmux.conf_
+```
+# tmux screen saver
+set-option -g lock-after-time 600
+set-option -g lock-command 'asciiquarium'
+```
