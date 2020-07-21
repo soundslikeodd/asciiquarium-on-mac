@@ -1,6 +1,8 @@
 # asciiquarium-on-mac
 Notes on running asciiquarium on MacOS
 
+asciiauarium is a animated terminal aquarium written in perl https://robobunny.com/projects/asciiquarium/html/
+
 _constructed with help from https://www.cyberciti.biz/tips/linux-unix-apple-osx-terminal-ascii-aquarium.html_
 
 | tool | version |
